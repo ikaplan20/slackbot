@@ -26,12 +26,12 @@ the getting started dashboard section of the workspace customization tab.
 - override Welcome messages with commands referencing the same channel (class properties?)
 
 
-ADVANCED
--beyond the analytics dashboard, use the analytics API for stateless
+### ADVANCED  
+- beyond the analytics dashboard, use the analytics API for stateless
 slack messaging
--record user activity (investigate admin user auth token level
+- record user activity (investigate admin user auth token level
 permissions
--create user activity reports for managers.
+- create user activity reports for managers.
 
-TBD
+### TBD  
 Fetching data from other sources that is best displayed in slack

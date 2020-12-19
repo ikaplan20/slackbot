@@ -19,7 +19,8 @@ create an event subscription with the request URL provided by ngrok.
 
 ## Features 
 Create channel specific welcome messages via slack command (or a general
-message if one does not exist) 
+message if one does not exist) if functionality cannot be duplicated on
+the getting started dashboard section of the workspace customization tab.
 - stored in a WelcomeMessages class (1 per channel_id)
 - created by a create-welcome-message command (only available to admin)
 - override Welcome messages with commands referencing the same channel (class properties?)
@@ -32,3 +33,5 @@ slack messaging
 permissions
 -create user activity reports for managers.
 
+TBD
+Fetching data from other sources that is best displayed in slack
